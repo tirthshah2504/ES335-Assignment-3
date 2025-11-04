@@ -1,5 +1,9 @@
-# Task 1: Comparative Analysis - Natural vs Structured Language Learning
+Dataset 1 Streamlit app URL - https://es335-assignment-3-dr27jn266f3hmhminmgsdq.streamlit.app/
 
+Dataset 2 Streamlit app URL - https://tirthshah2504-es335-assignment-3-app-dataset2-xxzrra.streamlit.app/
+
+
+# Task 1: Comparative Analysis - Natural vs Structured Language Learning
 
 This report presents a comprehensive comparison of two MLP-based text generation models trained on fundamentally different datasets:
 - **Category I (Dataset 1)**: Natural Language - "Sherlock Holmes" literary text
